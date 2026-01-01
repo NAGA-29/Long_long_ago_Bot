@@ -34,7 +34,7 @@ YouTubeチャンネルのRSSフィードやAPIを定期的に監視し、新着�
 
 *   **`get_replay_chat.py` / `chat/get_live_chat.py`**: 配信のアーカイブやライブ中のチャットログを取得します。
 *   **`remind.py`**: 配信のリマインド機能を提供します。（詳細は要解析）
-*   **`tube_subscriber.py`**: YouTubeチャンネルの登録者数を監視し、変動を通知します。（詳細は要解析）
+*   **`controller/service/youtube/youtube_subscriber.py`**: YouTubeチャンネルの登録者数を監視し、変動を通知します。（詳細は要解析）
 *   **`controller/schedule/event_schedule.py`**: VTuberのイベントスケジュールを通知します。
 
 ## セットアップ手順
